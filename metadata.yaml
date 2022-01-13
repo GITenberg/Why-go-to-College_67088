@@ -1,0 +1,27 @@
+_repo: Why-go-to-College_67088
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooper, Clayton Sedgwick
+    gutenberg_agent_id: '54107'
+    url: http://www.gutenberg.org/2009/agents/54107
+description: ''
+gutenberg_issued: '2022-01-02'
+identifiers:
+  gutenberg: '67088'
+language: en
+pgterms:marc904: https://archive.org/details/whygotocollege00coop/page/n9/mode/2up
+pgterms:marc905: 20210826113147cooper
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Charlene Taylor, hekula03 and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Century Co.,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Why go to College?
+url: http://www.gutenberg.org/ebooks/67088
