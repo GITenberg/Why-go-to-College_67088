@@ -1,11 +1,16 @@
 _repo: Why-go-to-College_67088
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67088-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooper, Clayton Sedgwick
     gutenberg_agent_id: '54107'
     url: http://www.gutenberg.org/2009/agents/54107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67088#Why-go-to-College
 gutenberg_issued: '2022-01-02'
 identifiers:
   gutenberg: '67088'
